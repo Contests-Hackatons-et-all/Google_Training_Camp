@@ -1,1 +1,1 @@
-# Google_Training_Camp
+# This notebook contains the code used in the Google Training Camp which I participated on September 2021.
