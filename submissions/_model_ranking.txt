@@ -1,0 +1,13 @@
+submission_emb_clip-ViT-B-32, 0.5
+submission_emb_all-MiniLM-L12-v2_35_epochs, 0.13954464111249995
+submission_emb_all-MiniLM-L12-v2_21_epochs, 0.13310084071161485
+submission_emb_all-MiniLM-L12-v2_16_epochs, 0.12464539145656425
+submission_emb_all-MiniLM-L12-v2_16_epochs, 0.12464539145656425
+submission_emb_all-MiniLM-L12-v2_15_epochs, 0.1281877576580903
+submission_emb_all-MiniLM-L12-v2_30_epochs, 0.13291315371210008
+submission_emb_all-MiniLM-L12-v2_35_epochs, 0.36076255096714527
+submission_emb_all-MiniLM-L12-v2_21_epochs, 0.35107007372940685
+submission_emb_all-MiniLM-L12-v2_16_epochs, 0.3365233357137572
+submission_emb_all-MiniLM-L12-v2_15_epochs, 0.3441932984177314
+submission_emb_all-MiniLM-L12-v2_30_epochs, 0.3501686249386271
+submission_emb_clip-ViT-B-32, 1.0
